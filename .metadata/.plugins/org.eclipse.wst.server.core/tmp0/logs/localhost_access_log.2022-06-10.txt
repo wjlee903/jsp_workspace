@@ -1,0 +1,6 @@
+127.0.0.1 - - [10/Jun/2022:19:25:53 +0900] "GET / HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:19:25:55 +0900] "GET /Board/Model2/index.jsp HTTP/1.1" 200 1364
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:19:25:55 +0900] "GET /favicon.ico HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:19:26:03 +0900] "GET /Board/mvcboard/list.do HTTP/1.1" 200 9657
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:19:26:16 +0900] "GET /Board/mvcboard/list.do?pageNum=2 HTTP/1.1" 200 3626
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:19:26:23 +0900] "GET /Board/mvcboard/list.do?pageNum=1 HTTP/1.1" 200 9657
